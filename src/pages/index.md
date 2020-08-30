@@ -1,4 +1,4 @@
 ---
 templateKey: index-page
-image: /img/sun-hoodie.png
+image: /img/nt-logo-for-web.png
 ---
