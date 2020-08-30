@@ -3,9 +3,9 @@ templateKey: about-page
 path: /about
 title: About
 ---
-Natalie Tarle is a Melbourne based designer primarily focussed on fashion and digital representations of it.\
+Natalie Tarle is a Melbourne based designer focused on fashion and digital representations of it.\
 \
-Her interests include (but are not limited to) garment design and contruction, illustration, photography and content creation.\
+Her interests include (but are not limited to) garment design and construction, illustration, photography and content creation.\
 \
 Her collaborative project ‘Kid Drank’ can be found [@kid___drank](https://www.instagram.com/kid___drank/).\
 \
