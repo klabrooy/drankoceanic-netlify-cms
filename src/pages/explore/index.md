@@ -13,6 +13,10 @@ blurbs:
     image: /img/orangina-time.jpg
     title: ORANGINA TIME
     description: Et sa pulpe!
+  - date: 2022-01-03T10:18:58.067Z
+    image: /img/undercover-pop-star-1.png
+    title: Undercover Pop Star
+    description: Hannah Montana 10th Anniversary tee, worn by Miley Cyrus
   - date: 2022-01-03T09:27:02.933Z
     image: /img/versace-earring_portrait-01.png
     title: VERSACE EARRINGS
