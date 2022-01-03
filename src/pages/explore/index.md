@@ -1,6 +1,30 @@
 ---
 templateKey: explore-page
 blurbs:
+  - date: 2022-01-03T09:28:14.529Z
+    image: /img/gcds-bratz-3.jpg
+    title: GCDS X BRATZ
+    description: Based on the actual gold, heart shaped mini bag.
+  - date: 2022-01-03T09:27:42.688Z
+    image: /img/lounge-chair-2.jpg
+    title: 2000S LILO
+    description: "Early 2000s living room décor. "
+  - date: 2022-01-03T09:27:26.089Z
+    image: /img/orangina-time.jpg
+    title: ORANGINA TIME
+    description: Et sa pulpe!
+  - date: 2022-01-03T09:27:02.933Z
+    image: /img/versace-earring_portrait-01.png
+    title: VERSACE EARRINGS
+    description: Based on the classic gold plated hoop design.
+  - date: 2022-01-03T09:25:51.560Z
+    image: /img/beach-club.png
+    title: EMPTY BEACH CLUB
+    description: Scene blocking for an imagined landscape.
+  - date: 2022-01-03T09:25:47.821Z
+    image: /img/white-pillars-on-an-open-ocean-2.jpg
+    title: WHITE PILLARS ON AN OPEN LAKE
+    description: Imagined landscape.
   - date: 2020-08-23T09:08:34.276Z
     image: /img/guess-hat5.png
     title: Guess Bucket Hat
