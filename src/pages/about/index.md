@@ -5,7 +5,7 @@ title: About
 ---
 Natalie Tarle is a Melbourne based designer focused on fashion and digital representations of it.\
 \
-Her interests include (but are not limited to) garment design and construction, illustration, photography and content creation.\
+Her interests include 3D fashion and product design, garment design and construction, illustration and photography.\
 \
 Her collaborative project ‘Kid Drank’ can be found [@kid___drank](https://www.instagram.com/kid___drank/).\
 \
