@@ -41,4 +41,10 @@ blurbs:
     image: /img/img_3882.png
     title: Outfit 4
     description: "'Declined' runway shot by studio.kit"
+  - date: 2022-01-03T09:44:59.189Z
+    image: /img/screen-shot-2020-08-23-at-7.32.27-pm.png
+    title: '"Europe" Guide'
+    description: 'Excerpt from a publication used in story telling my graduate
+      collection. The guide "advertised" features line drawings of my
+      grandmothers. They are two of my greatest inspirations. '
 ---
